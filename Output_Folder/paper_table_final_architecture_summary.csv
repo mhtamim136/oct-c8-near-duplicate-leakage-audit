@@ -1,0 +1,3 @@
+architecture,parameters,retraining_gap_A_minus_B,retraining_p_value,fixed_model_diff_A_minus_B
+ResNet18,11180616,-0.003437821171634,0.2192759856118372,0.0002158273381294
+EfficientNet-B0,4017796,-2.642783732195334e-05,0.956790095452296,0.0001824254881809

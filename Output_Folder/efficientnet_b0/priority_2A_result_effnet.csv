@@ -1,0 +1,2 @@
+model,acc_on_condA_test,acc_on_condB_test,diff
+EffNet_A_seed2024_fixed,0.9746428571428571,0.9744604316546762,0.0001824254881809262

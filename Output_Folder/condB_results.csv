@@ -1,0 +1,8 @@
+condition,seed,test_acc
+B_deduplicated,7,0.9737410071942446
+B_deduplicated,17,0.9773381294964028
+B_deduplicated,42,0.974820143884892
+B_deduplicated,55,0.9773381294964028
+B_deduplicated,99,0.9676258992805755
+B_deduplicated,123,0.975179856115108
+B_deduplicated,2024,0.9730215827338128

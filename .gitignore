@@ -1,0 +1,3 @@
+Output_Folder/checkpoints/
+Output_Folder/efficientnet_b0/checkpoints/
+*.pt
