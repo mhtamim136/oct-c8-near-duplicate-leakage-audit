@@ -1,0 +1,13 @@
+file,size_in,note
+F1_confusion_fixed_checkpoint.png / .pdf,5.20 x 5.00,"same weights, original vs cleaned test set (paper method)"
+F1b_confusion_retrained_A_B.png / .pdf,5.20 x 5.00,"retrained A vs B, seed 2024 (as old Fig. 4)"
+F2_roc_fixed_checkpoint.png / .pdf,5.40 x 2.60,"macro ROC, zoomed to FPR<=0.1, TPR>=0.9; curves overlap by construction"
+F2b_roc_per_class_resnet18.png / .pdf,5.40 x 2.60,"per-class ROC, original test set"
+F3a_curves_deterministic_A_vs_B.png / .pdf,7.10 x 2.30,"deterministic ResNet18; A (solid) and B (dashed) trajectories coincide; val sets differ (2,800 vs 2,772)"
+F3b_curves_condition_C.png / .pdf,7.10 x 2.30,"Condition C (training copies removed) mean +- SD, with the two E2 Condition-A reruns"
+F4_accuracy_per_seed_A_vs_B.png / .pdf,7.10 x 2.40,per-seed test accuracy; dotted = condition mean; y-axis truncated at 96%
+F5_model_comparison.png / .pdf,3.50 x 2.50,"hatched = accuracy reported by cited papers (different protocols; context only, not a SOTA claim); ours = 7-seed mean +- SD"
+T_performance_table.csv / .tex,table,"accuracy + macro P/R/F1/spec/AUC (A,B; both backbones) + prior-work rows"
+T_per_class_resnet18.csv,table,"per-class P/R/F1, 7-seed means"
+COMBINED_3panel_fullwidth.png / .pdf,7.16 x 2.45,"paper: figure* (full width). (a) E1 deterministic A vs B; (b),(c) fixed checkpoint (COMBINED_SOURCE)"
+COMBINED_4panel_singlecolumn.png / .pdf,3.50 x 3.50,"paper: single column 2x2 (a) loss (b) val acc, A vs B deterministic; (c) ROC; (d) confusion matrix"

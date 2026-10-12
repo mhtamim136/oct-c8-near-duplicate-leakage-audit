@@ -1,0 +1,4 @@
+split_pair,path_a,path_b,cls,hamming,ssim,same_bytes
+train-test,/content/drive/MyDrive/OCT_C8_Project/dataset/RetinalOCT_Dataset/RetinalOCT_Dataset/train/DRUSEN/drusen_train_1424.jpg,/content/drive/MyDrive/OCT_C8_Project/dataset/RetinalOCT_Dataset/RetinalOCT_Dataset/test/DRUSEN/drusen_test_1127.jpg,DRUSEN,0,1.0,True
+train-val,/content/drive/MyDrive/OCT_C8_Project/dataset/RetinalOCT_Dataset/RetinalOCT_Dataset/train/DRUSEN/drusen_train_1212.jpg,/content/drive/MyDrive/OCT_C8_Project/dataset/RetinalOCT_Dataset/RetinalOCT_Dataset/val/DRUSEN/drusen_val_1074.jpg,DRUSEN,0,0.9748844373433306,False
+train-val,/content/drive/MyDrive/OCT_C8_Project/dataset/RetinalOCT_Dataset/RetinalOCT_Dataset/train/DME/dme_train_2143.jpg,/content/drive/MyDrive/OCT_C8_Project/dataset/RetinalOCT_Dataset/RetinalOCT_Dataset/val/DME/dme_val_1174.jpg,DME,2,0.9325673269520494,False
